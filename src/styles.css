@@ -6,3 +6,12 @@
   /* font-size: 1rem; */
   /* font-family: "Roboto", sans-serif; */
 }
+
+:root {
+  --primary-color: #1a1b21;
+  --secondary-color-dark: #161619;
+  --btn-color-white: #fff;
+  --btn-color-blue: #5093e2;
+  --text-color-gray: #dcdcdc;
+  --text-color-brown: #f3bf99;
+}
