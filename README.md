@@ -1,8 +1,12 @@
 # Digital Business Card [Scrimba Solo Project]
 
-This is one of the projects I built to learn React.
+This is a react solo project I built taking the Frontend Career Path at Scrimba.
 
 ![Alt text](./src/images/digital-business-card.jpg)
+
+## Demo
+
+[Click](https://google.com/)
 
 ## Usage
 
@@ -23,3 +27,10 @@ To build run...
 ```bash
 npm run build
 ```
+
+## Author 😊
+
+**Benjamin Essilfie Ofori-Quansah** - [View Profile](https://github.com/essilfiequansah)
+
+- [**Twitter**](https://twitter.com/essiIfie)
+- [**Linkedin**](https://www.linkedin.com/in/essilfiequansah/)
